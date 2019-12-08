@@ -9,8 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-Namma Anna Sharath
-			</h1>
+this sudhi from HCL			</h1>
 		
 			<div>
 				<p class="well">
