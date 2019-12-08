@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-this sudhi from HCL			</h1>
+super devops			</h1>
 		
 			<div>
 				<p class="well">
